@@ -1,4 +1,4 @@
-Original App Design Project - 
+Original App Design Project
 ===
 
 # NexPlay

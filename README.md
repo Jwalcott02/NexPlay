@@ -100,9 +100,9 @@ Users can discover and track video games across different platforms. Browse a li
 
 [This section will be completed in Unit 9]
 
-### Models
+### Video Walkthrough
 
-[Add table of models]
+
 
 ### Networking
 

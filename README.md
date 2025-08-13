@@ -96,10 +96,6 @@ Users can discover and track video games across different platforms. Browse a li
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
-
-[This section will be completed in Unit 9]
-
 ### Video Walkthrough
 
 

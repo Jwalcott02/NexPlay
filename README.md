@@ -96,7 +96,7 @@ Users can discover and track video games across different platforms. Browse a li
 
 ### [BONUS] Interactive Prototype
 
-### Video Walkthrough
+## Video Walkthrough
 
 <div>
     <a href="https://www.loom.com/share/583d8aeb48154cfabc61be1a6a797839">
@@ -107,7 +107,7 @@ Users can discover and track video games across different platforms. Browse a li
     </a>
   </div>
 
-### Networking
+## Networking
 
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]

@@ -109,6 +109,35 @@ Users can discover and track video games across different platforms. Browse a li
 
 ## Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+- [x] Add list of network requests by screen
+- [x] Create basic snippets for each Parse network request
+- [x] OPTIONAL: List endpoints if using existing API such as Yelp
+
+#### Requests by Screen
+
+- **Home / Trending (Game list)**
+  - `GET https://api.rawg.io/api/games?page={n}&page_size=40&ordering=-rating&key=89a4d139d36f4f1485201802236f66ce`
+- **Search**
+  - `GET https://api.rawg.io/api/games?search={query}&page={n}&page_size=40&key=89a4d139d36f4f1485201802236f66ce`
+- **Game Detail**
+  - `GET https://api.rawg.io/api/games/{id}?key=89a4d139d36f4f1485201802236f66ce`
+- *(Optional)* **Game Screenshots**
+  - `GET https://api.rawg.io/api/games/{id}/screenshots?key=89a4d139d36f4f1485201802236f66ce`
+
+#### Endpoints (RAWG)
+
+> Base URL: `https://api.rawg.io/api`  
+> All requests include your key via `?key=...`
+
+```http
+# List games (Trending)
+GET /games?page={n}&page_size=40&ordering=-rating&key=89a4d139d36f4f1485201802236f66ce
+
+# Search games
+GET /games?search={query}&page={n}&page_size=40&key=89a4d139d36f4f1485201802236f66ce
+
+# Game detail
+GET /games/{id}?key=89a4d139d36f4f1485201802236f66ce
+
+# Screenshots (optional)
+GET /games/{id}/screenshots?key=89a4d139d36f4f1485201802236f66ce

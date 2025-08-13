@@ -98,7 +98,14 @@ Users can discover and track video games across different platforms. Browse a li
 
 ### Video Walkthrough
 
-
+<div>
+    <a href="https://www.loom.com/share/583d8aeb48154cfabc61be1a6a797839">
+      <p>Videos | Library | Loom - 12 August 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/583d8aeb48154cfabc61be1a6a797839">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/583d8aeb48154cfabc61be1a6a797839-156cb0e19bca1696-full-play.gif">
+    </a>
+  </div>
 
 ### Networking
 
